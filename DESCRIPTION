@@ -1,0 +1,15 @@
+Package: juanR
+Title: Getting by with a little help from myself
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Juan",
+           family = "Mayorga",
+           role = c("aut", "cre"),
+           email = "juanmayorga@ucsb.edu")
+Description: This is a collection of handy and commonly used functions for emLab projects. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
