@@ -20,6 +20,10 @@ Suggests:
 Language: en-US
 Imports: 
     dplyr,
-    UnidecodeR (>= 0.2)
-Remotes:  
+    stringr,
+    magrittr,
+    utils
+Remotes: 
     rich-iannone/UnidecodeR
+Depends: 
+    UnidecodeR
